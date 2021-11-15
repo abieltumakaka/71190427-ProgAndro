@@ -36,7 +36,7 @@ class MainActivity : AppCompatActivity() {
             }
 
             val etUkuran = findViewById<EditText>(R.id.inputFont)
-            etUkuran.setText(sp!!.getInt("ukuran", 10).toString())
+            etUkuran.setText(sp!!.getString("ukuran", "10").toString())
             etUkuran.addTextChangedListener(object : TextWatcher {
                 override fun beforeTextChanged(p0: CharSequence?, p1: Int, p2: Int, p3: Int) {
 
