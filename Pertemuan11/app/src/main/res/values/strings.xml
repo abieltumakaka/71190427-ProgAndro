@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pertemuan11</string>
+    <string name="hint"><font size="10">Cari NIM atau Nama atau IPK *search kosong untuk reset</font></string>
+</resources>
