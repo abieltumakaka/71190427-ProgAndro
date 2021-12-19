@@ -49,14 +49,25 @@
         app:layout_constraintTop_toBottomOf="@+id/LogoutButton" />
 
     <Button
+        android:id="@+id/CariBukutxv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cari Buku"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/TambahBukutxv"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Button
         android:id="@+id/LihatBukutxv"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Lihat Daftar Buku"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/TambahBukutxv"
+        app:layout_constraintTop_toBottomOf="@+id/CariBukutxv"
         app:layout_constraintVertical_bias="0.0" />
 </androidx.constraintlayout.widget.ConstraintLayout>

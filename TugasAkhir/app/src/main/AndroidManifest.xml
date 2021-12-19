@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TugasAkhir">
         <activity
+            android:name=".SearchActivity"
+            android:exported="false" />
+        <activity
             android:name=".EditBukuActivity"
             android:exported="false" />
         <activity

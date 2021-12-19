@@ -19,6 +19,7 @@ class DashboardActivity : AppCompatActivity() {
         var tambahBukuButton = findViewById<Button>(R.id.TambahBukutxv)
         var lihatBukuButton = findViewById<Button>(R.id.LihatBukutxv)
         var emailTxv  = findViewById<TextView>(R.id.emailtxv)
+        var cariBukuButton = findViewById<Button>(R.id.CariBukutxv)
 
         //init firebase auth
         firebaseAuth = FirebaseAuth.getInstance()
@@ -40,6 +41,10 @@ class DashboardActivity : AppCompatActivity() {
         tambahBukuButton.setOnClickListener {
             val toTambahBuku = Intent(this, TambahBukuActivity::class.java)
             startActivity(toTambahBuku)
+        }
+        cariBukuButton.setOnClickListener {
+            val toCariBuku = Intent(this, SearchActivity::class.java)
+            startActivity(toCariBuku)
         }
 
 

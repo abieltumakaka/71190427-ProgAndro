@@ -29,6 +29,7 @@ class BukuAdapter(var listBuku: ArrayList<Buku>, var context: Context): Recycler
                 intent.putExtra("isbn", buku.isbn)
                 intent.putExtra("pengarang", buku.pengarang)
                 context.startActivity(intent)
+                (context as ListBukuActivity).finish()
             }
 
             deleteBtn.setOnClickListener {
