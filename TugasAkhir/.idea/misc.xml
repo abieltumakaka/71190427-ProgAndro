@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kuliah/Praktikum Pemrograman Android/TugasAkhir/app/src/main/res/drawable/button_background_blue.xml" value="0.35208333333333336" />
+        <entry key="..\:/Kuliah/Praktikum Pemrograman Android/TugasAkhir/app/src/main/res/drawable/ic_add_img.xml" value="0.35208333333333336" />
+        <entry key="..\:/Kuliah/Praktikum Pemrograman Android/TugasAkhir/app/src/main/res/drawable/ic_back_img.xml" value="0.35208333333333336" />
+        <entry key="..\:/Kuliah/Praktikum Pemrograman Android/TugasAkhir/app/src/main/res/drawable/ic_facebook.xml" value="0.35208333333333336" />
+        <entry key="..\:/Kuliah/Praktikum Pemrograman Android/TugasAkhir/app/src/main/res/drawable/ic_google_plus.xml" value="0.35208333333333336" />
+        <entry key="..\:/Kuliah/Praktikum Pemrograman Android/TugasAkhir/app/src/main/res/drawable/ic_launcher_background.xml" value="0.35208333333333336" />
+        <entry key="..\:/Kuliah/Praktikum Pemrograman Android/TugasAkhir/app/src/main/res/drawable/ic_login_hero.xml" value="0.35208333333333336" />
+        <entry key="..\:/Kuliah/Praktikum Pemrograman Android/TugasAkhir/app/src/main/res/drawable/ic_register_hero.xml" value="0.35208333333333336" />
+        <entry key="..\:/Kuliah/Praktikum Pemrograman Android/TugasAkhir/app/src/main/res/drawable/ic_side_bg.xml" value="0.35208333333333336" />
+        <entry key="..\:/Kuliah/Praktikum Pemrograman Android/TugasAkhir/app/src/main/res/drawable/logo_background.xml" value="0.35208333333333336" />
+        <entry key="..\:/Kuliah/Praktikum Pemrograman Android/TugasAkhir/app/src/main/res/layout/activity_dashboard.xml" value="0.33177083333333335" />
+        <entry key="..\:/Kuliah/Praktikum Pemrograman Android/TugasAkhir/app/src/main/res/layout/activity_edit_buku.xml" value="0.17604166666666668" />
+        <entry key="..\:/Kuliah/Praktikum Pemrograman Android/TugasAkhir/app/src/main/res/layout/activity_listbuku.xml" value="0.33177083333333335" />
+        <entry key="..\:/Kuliah/Praktikum Pemrograman Android/TugasAkhir/app/src/main/res/layout/activity_main.xml" value="0.29030797101449274" />
+        <entry key="..\:/Kuliah/Praktikum Pemrograman Android/TugasAkhir/app/src/main/res/layout/activity_tambah_buku.xml" value="0.33177083333333335" />
+        <entry key="..\:/Kuliah/Praktikum Pemrograman Android/TugasAkhir/app/src/main/res/layout/item_buku.xml" value="0.33" />
+        <entry key="..\:/Kuliah/Praktikum Pemrograman Android/TugasAkhir/app/src/main/res/layout/login.xml" value="0.33" />
+        <entry key="..\:/Kuliah/Praktikum Pemrograman Android/TugasAkhir/app/src/main/res/mipmap-anydpi-v26/logo.xml" value="0.35208333333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
